@@ -1,6 +1,7 @@
 # USdebt_Visualizations
 ### Charts of US Fed Debt: 
-R **ggplot2* interactive &amp; **www.bertfier.com** matrix &amp; **Tableau**
+R Studio using **ggplot2** library made interactive with library **plotly** (now free!)
+&amp; www.bertfier.com matrix &amp; **Tableau**
 
 Quarterly debt of US Fed from 1970 to 2016 is used for interactive R charts using **ggplot2** library
 
